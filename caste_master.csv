@@ -1,0 +1,384 @@
+﻿caste_id,caste_name,sub_caste_name
+1,BC MUSLIMS,Ansar
+2,BC MUSLIMS,Dekkani Muslims
+3,BC MUSLIMS,Dudekula
+4,BC MUSLIMS,Labbais & Marakayar
+5,BC MUSLIMS,Mapilla
+6,BC MUSLIMS,Sheik
+7,BC MUSLIMS,Syed
+8,BC,Agamudayar 
+9,BC,Thozhu or Thuluva Vellala
+10,BC,Agaram Vellan Chettiar
+11,BC,"Alwar, Azhavar and Alavar "
+12,BC,Servai 
+13,BC,Nulayar 
+14,BC,Archakarai Vellala
+15,BC,Aryavathi
+16,BC,Ayira Vaisyar
+17,BC,Badagar
+18,BC,Billava
+19,BC,Bondil
+20,BC,Boyas & Pedda Boyar & Oddars 
+21,BC,Chakkala 
+22,BC,Chavalakarar 
+23,BC,Chettu or Chetty 
+24,BC,Chowdry
+25,BC,B C.S.I. formerly S.I.U.C. 
+26,BC,Donga Dasaris 
+27,BC,"Devangar, Sedar"
+28,BC,Dombs 
+29,BC,Enadi
+30,BC,Ezhavathy
+31,BC,Ezhuthachar
+32,BC,Ezhuva 
+33,BC,Gangavar
+34,BC,"Gavara, Gavarai & Vadugar "
+35,BC,Gounder
+36,BC,Gowda 
+37,BC,Hegde
+38,BC,Idiga
+39,BC,Illathu Pillaimar
+40,BC,Illuvar 
+41,BC,Ezhuvar & Illathar
+42,BC,Jhetty
+43,BC,Jogis 
+44,BC,Kabbera
+45,BC,Kaikolar
+46,BC,Sengunthar
+47,BC,Kaladi 
+48,BC,Kalari Kurup including Kalari Panicker 
+49,BC,Kalingi
+50,BC,Kallar & Easanattu Kallar 
+51,BC,Gandharvakottai Kallars 
+52,BC,Kottappal Kallars 
+53,BC,Kallar Kula Thondaman
+54,BC,Kalveli Gounder
+55,BC,Kambar
+56,BC,"Kammalar or Viswakarma, Viswakarmala "
+57,BC,"Kani, Kanisu, Kaniyar Panikkar"
+58,BC,Kaniyala Vellalar
+59,BC,"Kannada Saineegar, Kannadiyar "
+60,BC,Kannadiya Naidu
+61,BC,Karpoora Chettiar
+62,BC,Karuneegar 
+63,BC,Kasukkara Chettiar
+64,BC,Katesar Pattamkatti
+65,BC,Kavuthiyar
+66,BC,Kerala Mudali
+67,BC,Kharvi
+68,BC,Khatri
+69,BC,Kongu Vaishnava
+70,BC,Kongu Vellalars 
+71,BC,Koppala Velama
+72,BC,Koteyar
+73,BC,Krishnanvaka 
+74,BC,Kudikara Vellalar
+75,BC,Kudumbi
+76,BC,Kuga Vellalar
+77,BC,Kunchidigar
+78,BC,B Latin
+79,BC,Lambadi
+80,BC,Lingayat 
+81,BC,Mahratta 
+82,BC,Malayar
+83,BC,Male
+84,BC,Maniagar
+85,BC,Maravars 
+86,BC,Moondrumandai Enbathunalu 
+87,BC,Mooppan
+88,BC,"Muthuraja, Muthuracha, Muttiriyar, Mutharaiyar"
+89,BC,Nadar & Shanar & Gramani 
+90,BC,Christian Nadar & Shanar & Gramani
+91,BC,Nagaram
+92,BC,Naikkar 
+93,BC,Nangudi Vellalar
+94,BC,Nanjil Mudali 
+95,BC,Odar 
+96,BC,Odiya
+97,BC,Oottruvalanattu Vellalar
+98,BC,O.P.S. Vellalar
+99,BC,Ovachar
+100,BC,Paiyur Kotta Vellalar
+101,BC,Pamulu
+102,BC,Panar 
+103,BC,A Pandiya Vellalar
+104,BC,Omitted
+105,BC,Kathikarar in Kanyakumari District
+106,BC,Pannirandam Chettiar or Uthama Chettiar
+107,BC,Parkavakulam 
+108,BC,Perike 
+109,BC,Perumkollar
+110,BC,Podikara Vellalar
+111,BC,Pooluva Gounder
+112,BC,Poraya
+113,BC,Pulavar
+114,BC,Pulluvar or Pooluvar
+115,BC,Pusala
+116,BC,Reddy
+117,BC,Sadhu Chetty 
+118,BC,Sakkaravar or Kavathi 
+119,BC,Salivagana
+120,BC,"Saliyar, Padmasaliyar, Pattusaliyar, Pattariyar"
+121,BC,Savalakkarar
+122,BC,"Senaithalaivar, Senaikudiyar and IIaivaniar"
+123,BC,A Serakula Vellalar
+124,BC,Sourashtra
+125,BC,Sozhia Vellalar 
+126,BC,Srisayar
+127,BC,Sundaram Chetty
+128,BC,Thogatta Veerakshatriya
+129,BC,Tholkollar
+130,BC,Tholuva Naicker and Vetalakara Naicker
+131,BC,Omitted
+132,BC,Thoriyar
+133,BC,Ukkirakula Kshatriya Naicker
+134,BC,"Uppara, Uppillia and Sagara"
+135,BC,Urali Gounder 
+136,BC,Urikkara Nayakkar A Virakodi Vellala
+137,BC,Vallambar
+138,BC,A Vallanattu Chettiar
+139,BC,Valmiki
+140,BC,"Vaniyar, Vania Chettiar "
+141,BC,Veduvar and Vedar 
+142,BC,Veerasaiva
+143,BC,Velar
+144,BC,Vellan Chettiar
+145,BC,Veluthodathu Nair 
+146,BC,Vokkaligar
+147,BC,Wynad Chetty 
+148,BC,Yadhava 
+149,BC,Yavana
+150,BC,Yerukula
+151,BC,Padannan
+152,DC,Attur Kilnad Koravars 
+153,DC,Attur Melnad Koravars 
+154,DC,Appanad Kondayam Kottai Maravar 
+155,DC,Ambalakarar 
+156,DC,Ambalakkarar 
+157,DC,Boyas 
+158,DC,Battu Turkas
+159,DC,C.K. Koravars 
+160,DC,Chakkala 
+161,DC,Changyampudi Koravars 
+162,DC,Chettinad Valayars 
+163,DC,Dombs 
+164,DC,Dobba Koravars 
+165,DC,Dommars 
+166,DC,Donga Boya
+167,DC,Donga Ur. Korachas
+168,DC,Devagudi Talayaris
+169,DC,Dobbai Korachas 
+170,DC,Dabi Koravars 
+171,DC,Donga Dasaris 
+172,DC,Gorrela Dodda Boya
+173,DC,Gudu Dasaris
+174,DC,Gandarvakottai
+175,DC,Gandarvakottai Kallars 
+176,DC,Inji Koravars 
+177,DC,Jogis 
+178,DC,Jambavanodai
+179,DC,Kaladis
+180,DC,Kal Oddars 
+181,DC,Koravars
+182,DC,Kalinji Dabikoravars 
+183,DC,Kootappal Kallars 
+184,DC,Kala Koravars 
+185,DC,Kalavathila Boyas
+186,DC,Kepmaris 
+187,DC,Maravars 
+188,DC,Monda Koravars
+189,DC,Monda Golla 
+190,DC,Mutlakampatti 
+191,DC,Nokkars 
+192,DC,Nellorepet Oddars 
+193,DC,Oddars 
+194,DC,Pedda Boyas 
+195,DC,Ponnai Koravars 
+196,DC,Piramalai Kallars 
+197,DC,Periya Suriyur Kallars 
+198,DC,Padayachi 
+199,DC,Punnan Vettuva Gounder 
+200,DC,Servai 
+201,DC,Salem  Melnad  Koravars
+202,DC,Salem Uppu Koravars 
+203,DC,Sakkaraithamadai
+204,DC,Saranga Palli Koravars
+205,DC,Sooramari  Oddars
+206,DC,Sembanad Maravars 
+207,DC,Thalli Koravars 
+208,DC,Telungapatti
+209,DC,Thottia
+210,DC,Thogamalai Koravars or Kepmaris 
+211,DC,Uppukoravars or Settipalli Koravars 
+212,DC,Urali Gounders 
+213,DC,Wayalpad or Nawalpeta Korachas
+214,DC,Vaduvarpatti Koravars 
+215,DC,Valayars 
+216,DC,Vettaikarar 
+217,DC,Vetta koravars 
+218,DC,Varaganeri
+219,DC,Vettuva
+220,ST,Adiyan
+221,ST,Aranadan
+222,ST,Eravallan
+223,ST,Irular
+224,ST,Kadar
+225,ST,Kammara 
+226,ST,"Kanikaran, Kanikkar "
+227,ST,"Kaniyan, Kanyan"
+228,ST,Kattunayakan
+229,ST,Kochu Velan
+230,ST,Konda Kapus
+231,ST,Kondareddis
+232,ST,Koraga
+233,ST,Kota 
+234,ST,"Kudiya, Melakudi"
+235,ST,Kurichchan
+236,ST,Kurumbas 
+237,ST,Kurumans
+238,ST,Maha Malasar
+239,ST,Malai Arayan
+240,ST,Malai Pandaram
+241,ST,Malai Vedan
+242,ST,Malakkuravan
+243,ST,Malasar
+244,ST,Malayali
+245,ST,Malayakandi
+246,ST,Mannan
+247,ST,"Mudugar, Muduvan"
+248,ST,Muthuvan
+249,ST,Pallayan
+250,ST,Palliyan
+251,ST,Palliyar
+252,ST,Paniyan
+253,ST,Sholaga
+254,ST,Toda
+255,ST,Uraly
+256,SC,Adi Dravida
+257,SC,Adi Karnataka
+258,SC,Ajila
+259,SC,Ayyanavar
+260,SC,Baira
+261,SC,Bakuda
+262,SC,Bandi
+263,SC,Bellara
+264,SC,Bharatar 
+265,SC,Chalavadi
+266,SC,"Chamar, Muchi"
+267,SC,Chandala
+268,SC,Cheruman
+269,SC,Devendrakulathan
+270,SC,"Dom, Dombara, Paidi, Pano"
+271,SC,Domban
+272,SC,Godagali
+273,SC,Godda
+274,SC,Gosangi
+275,SC,Holeya
+276,SC,Jaggali
+277,SC,Jambuvulu
+278,SC,Kadaiyan
+279,SC,Kakkalan 
+280,SC,Kalladi
+281,SC,"Kanakkan, Padanna"
+282,SC,Karimpalan
+283,SC,Kavara
+284,SC,Koliyan
+285,SC,Koosa
+286,SC,"Kootan, Koodan "
+287,SC,Kudumban
+288,SC,"Kuravan, Sidhanar"
+289,SC,Maila
+290,SC,Mala
+291,SC,Mannan 
+292,SC,Mavilan
+293,SC,Moger
+294,SC,Mundala
+295,SC,Nalakeyava
+296,SC,Nayadi
+297,SC,Padannan
+298,SC,Pallan
+299,SC,Palluvan
+300,SC,Pambada
+301,SC,Panan 
+302,SC,Panchama
+303,SC,Pannadi
+304,SC,Panniandi
+305,SC,"Paraiyan, Parayan, Sambavar"
+306,SC,Paravan
+307,SC,Pathiyan
+308,SC,"Pulayan, Cheramar"
+309,SC,Puthirai Vannan
+310,SC,Raneyar
+311,SC,Samagara
+312,SC,Samban
+313,SC,Sapari
+314,SC,Semman
+315,SC,Thandan 
+316,SC,Tiruvalluvar
+317,SC,Vallon
+318,SC,Valluvan
+319,SC,Vannan
+320,SC,Vathiriyan
+321,SC,Velan
+322,SC,Vetan
+323,SC,Vettiyan
+324,SC,Vettuvan
+325,MBC,Ambalakarar
+326,MBC,Andipandaram
+327,MBC,Arayar 
+328,MBC,"Bestha, Siviar"
+329,MBC,Bhatraju 
+330,MBC,"Boyar, Oddar"
+331,MBC,Dasari
+332,MBC,Dommara
+333,MBC,Eravallar 
+334,MBC,Isaivellalar
+335,MBC,Jambuvanodai
+336,MBC,Jangam
+337,MBC,Jogi
+338,MBC,Kongu Chettiar 
+339,MBC,Koracha
+340,MBC,Kulala 
+341,MBC,Kunnuvar Mannadi
+342,MBC,"Kurumba, Kurumba Goundar"
+343,MBC,Kuruhini Chetty
+344,MBC,Latin Catholic Christian Vannar 
+345,MBC,Maruthuvar
+346,MBC,Navithar
+347,MBC,Mangala
+348,MBC,Velakattalavar
+349,MBC,Velakatalanair 
+350,MBC,Pronopakari
+351,MBC,Mond Golla
+352,MBC,Moundadan Chetty
+353,MBC,"Mahendra, Medara"
+354,MBC,Mutlakampatti
+355,MBC,Narikoravar 
+356,MBC,Nokkar
+357,MBC,A Panisaivan /
+358,MBC,Vanniakula Kshatriya
+359,MBC,Paravar 
+360,MBC,A Paravar converts to Christianity
+361,MBC,Meenavar
+362,MBC,Mukkuvar or Mukayar
+363,MBC,Punnan Vettuva Gounder
+364,MBC,Pannayar
+365,MBC,Sathatha Srivaishnava 
+366,MBC,Sozhia Chetty
+367,MBC,Telugupatty Chetty
+368,MBC,Thottia Naicker
+369,MBC,Thondaman
+370,MBC,Panisivan
+371,MBC,A Thoraiyar 
+372,MBC,Valaiyar 
+373,MBC,Vannar 
+374,MBC,Vettuva Gounder
+375,MBC,Yogeeswarar
+376,MBC,Vettaikarar
+377,SCA,Adi Andhra
+378,SCA,Arunthathiyar
+379,SCA,Chakkiliyan
+380,SCA,Madari
+381,SCA,Madiga
+382,SCA,Pagadai
+383,SCA,Thoti
